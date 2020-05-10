@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Encrypted File Sharing</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="otp_sent_verification">Enter the OTP sent to %s</string>
+</resources>

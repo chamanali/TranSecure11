@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Secure File Sharing.iml" filepath="$PROJECT_DIR$/Secure File Sharing.iml" group="Secure File Sharing" />
+      <module fileurl="file://$PROJECT_DIR$/TranSecure.iml" filepath="$PROJECT_DIR$/TranSecure.iml" group="TranSecure" />
+      <module fileurl="file://$PROJECT_DIR$/app/TranSecure-app.iml" filepath="$PROJECT_DIR$/app/TranSecure-app.iml" group="TranSecure/app" />
+      <module fileurl="file://$PROJECT_DIR$/TranSecureApp-master.iml" filepath="$PROJECT_DIR$/TranSecureApp-master.iml" group="TranSecureApp-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Secure File Sharing/app" />
+    </modules>
+  </component>
+</project>
